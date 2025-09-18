@@ -1,0 +1,4 @@
+# Ignore all .checkpoint files
+*.ipynb_checkpoints
+# Ignore all files in any directory named temp
+temp/
